@@ -14,6 +14,7 @@ In this chatting application, you can keep your nickname and ban users just by p
   python --version
 
 ##Instructions to run the application
+
 -Clone the repo.
 -Open a Terminal or Command Prompt.
 -Navigate to the directory where you cloned the repo.
