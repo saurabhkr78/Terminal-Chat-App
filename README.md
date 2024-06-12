@@ -1,4 +1,4 @@
- # iM18 Terminal Messanger
+ # iM18 Terminal Messenger
 
 Anonymous Chatting with your friends using the terminal.
 
