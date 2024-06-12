@@ -18,7 +18,7 @@ In this chatting application, you can keep your nickname and ban users just by p
 - Open a Terminal or Command Prompt.
 - Navigate to the directory where you cloned the repo.
 - In the terminal, run the server file using: **python server.py**
-- Open a new Terminal or Command Prompt window.
+- Again open a new Terminal or Command Prompt window.
 - Navigate to the same directory.
 - In the terminal, run the client file using: **python client.py**
 
